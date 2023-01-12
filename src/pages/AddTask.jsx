@@ -16,7 +16,7 @@ function AddTask() {
       description,
     });
 
-    navigate("/");
+    navigate("/todo-frontend-react-rtk");
   };
 
   return (

@@ -10,17 +10,17 @@ function Navbar() {
           <div>
             <ul className="navbar-nav d-flex justify-content-between flex-row">
               <li className="nav-item">
-                <Link to="/" className="nav-link ms-1">
+                <Link to="/todo-frontend-react-rtk" className="nav-link ms-1">
                   Home
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/add" className="nav-link ms-1">
+                <Link to="/todo-frontend-react-rtk/add" className="nav-link ms-1">
                   Create Tasks
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/about" className="nav-link ms-1">
+                <Link to="/todo-frontend-react-rtk/about" className="nav-link ms-1">
                   About Us
                 </Link>
               </li>
