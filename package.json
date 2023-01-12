@@ -1,6 +1,7 @@
 {
   "name": "todo-frontend-react-rtk",
   "private": true,
+  "homepage": "http://elliotanthony39.github.io/todo-frontend-react-rtk",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
